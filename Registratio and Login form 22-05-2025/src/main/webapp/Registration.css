@@ -1,0 +1,13 @@
+@charset "UTF-8";
+
+.form2{
+	
+	flex-direction : center;
+	box-shadow : 2px 1px 5px 2px blue;
+	border: 2px solid black;
+	width: 400px;
+	height: 500px;
+}
+h1{
+	background-color: green;
+}
