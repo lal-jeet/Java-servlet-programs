@@ -10,6 +10,7 @@ import jakarta.servlet.ServletRequest;
 import jakarta.servlet.ServletResponse;
 import jakarta.servlet.annotation.WebServlet;
 @WebServlet("/registration")
+	//main code started
 public class Registration implements Servlet {
 
 	@Override
